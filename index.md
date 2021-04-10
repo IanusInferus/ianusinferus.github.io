@@ -16,7 +16,15 @@ layout: default
 
 # 软件
 
+[FullKeyboardWin](https://github.com/IanusInferus/FullKeyboardWin) Windows蜂窝形虚拟键盘
+
+[RTTI Obfuscator](https://github.com/IanusInferus/rtti-obfuscator) ELF类型反射信息混淆器
+
+[FullKeyboard](https://github.com/IanusInferus/FullKeyboard) Android蜂窝形虚拟键盘
+
 [BlackBerry Key2 键盘扩展](https://github.com/IanusInferus/BBK2KeyExtension)
+
+[TypeMake](https://github.com/IanusInferus/typemake) 使用C#实现的C++构建系统
 
 [Niveum类型框架库](https://github.com/IanusInferus/niveum)
 
