@@ -4,6 +4,8 @@ layout: default
 
 # 博客
 
+[2021-05-22 如何在Aegisub中实现ruby功能](posts/202105/20210522_aegisub_ruby.html)
+
 [2021-04-10 博客迁移](posts/202104/20210410_hello.html)
 
 [2019-09-07 BlackBerry Key2 键盘扩展](posts/201909/20190907_bbk2_keyext.html)

@@ -1,3 +1,3 @@
 # Blogum Iani Inferi
 
-[Hoc](https://ianusinferus.github.io/) vidē.
+[Hoc](https://ianusinferus.github.io/) vide.
