@@ -166,9 +166,7 @@ pre {
   font-size: 16px;
   color: #b5e853;
   border-radius: 2px;
-  word-wrap: normal;
-  overflow: auto;
-  overflow-y: hidden;
+  white-space: pre-wrap;
 }
 
 code.highlighter-rouge {
