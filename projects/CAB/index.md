@@ -53,5 +53,3 @@ layout: default
 可执行文件
 
 [CAB.zip](CAB.zip)
-
-[back](../../)

@@ -136,5 +136,3 @@ extern __declspec(dllexport) void(__stdcall * const p[10])(int a, int b);
 //这些元素是一个const的函数指针，函数本身的调用规范是__stdcall
 //函数的参数是(int a, int b)，返回值是void
 ```
-
-[back](../../)

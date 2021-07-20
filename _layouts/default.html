@@ -24,6 +24,9 @@
             <a href="{{ site.github.tar_url }}" class="btn">Download as .tar.gz</a>
           {% endif %}
           <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
+          {% if page.url != "/" %}
+            <a href="javascript: history.back()" class="btn btn-github">Go Back</a>
+          {% endif %}
         </section>
       </div>
     </header>
@@ -32,6 +35,8 @@
       <section id="main_content">
         {{ content }}
       </section>
+
+      <a href="javascript: history.back()" class="btn btn-github">Go Back</a>
     </div>
 
     {% if site.google_analytics %}

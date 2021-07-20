@@ -9,5 +9,3 @@ Ianus Inferus
 源文件
 
 [TigerCompiler.rar](TigerCompiler.rar)
-
-[back](../../)

@@ -81,5 +81,3 @@ Microsoft .NET Framework 4 Client Profile (x86，28.8MB)
 ## 5 备注
 
 如果发现了BUG，或者有什么意见或建议，请直接跟贴。
-
-[back](../../)

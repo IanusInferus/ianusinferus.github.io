@@ -107,5 +107,3 @@ Aegisub的[卡拉OK功能](https://aegi.vmoe.info/docs/3.0/Furigana_karaoke/)是
 ## 示例
 
 下载地址 [aegisub_ruby_example.zip](aegisub_ruby_example.zip)
-
-[back](../../)
