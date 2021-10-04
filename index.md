@@ -4,6 +4,8 @@ layout: default
 
 # 博客
 
+[2021-10-04 掌机的重量和屏幕](posts/202110/20211004_handhelds.html)
+
 [2021-07-06 如何下载需要验证cookie的文件](posts/202107/20210706_download.html)
 
 [2021-05-22 如何在Aegisub中实现ruby功能](posts/202105/20210522_aegisub_ruby.html)
