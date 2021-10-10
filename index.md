@@ -4,6 +4,8 @@ layout: default
 
 # 博客
 
+[2021-10-11 微雪GPM2804掌机使用感想](posts/202110/20211005_GPM2804.html)
+
 [2021-10-04 掌机的重量和屏幕](posts/202110/20211004_handhelds.html)
 
 [2021-07-06 如何下载需要验证cookie的文件](posts/202107/20210706_download.html)
