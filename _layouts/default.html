@@ -39,13 +39,15 @@
       <a href="javascript: history.back()" class="btn btn-github">Go Back</a>
     </div>
 
-    <script src="https://utteranc.es/client.js"
-            repo="IanusInferus/ianusinferus.github.io"
-            issue-term="pathname"
-            theme="github-dark"
-            crossorigin="anonymous"
-            async>
-    </script>
+    {% if page.url != "/" %}
+      <script src="https://utteranc.es/client.js"
+              repo="IanusInferus/ianusinferus.github.io"
+              issue-term="pathname"
+              theme="github-dark"
+              crossorigin="anonymous"
+              async>
+      </script>
+    {% endif %}
 
     {% if site.google_analytics %}
       <script>
