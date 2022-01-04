@@ -4,6 +4,8 @@ layout: default
 
 # 博客
 
+[2022-01-05 RISC-V学习笔记](posts/202201/20220105_riscv.html)
+
 [2021-11-16 Linux上的glibc版本兼容性问题](posts/202111/20211116_glibc.html)
 
 [2021-11-08 认识面向对象编程的弊端](posts/202111/20211108_oop.html)
