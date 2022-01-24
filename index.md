@@ -4,6 +4,8 @@ layout: default
 
 # 博客
 
+[2022-01-25 制作以RISC-V为目标代码的编译器](posts/202201/20220125_riscv.html)
+
 [2022-01-23 RISC-V的ABI](posts/202201/20220123_riscv.html)
 
 [2022-01-05 RISC-V学习笔记](posts/202201/20220105_riscv.html)
