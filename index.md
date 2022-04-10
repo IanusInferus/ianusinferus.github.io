@@ -4,6 +4,8 @@ layout: default
 
 # 博客
 
+[2022-04-10 ESP32入门-电子墨水屏日历](posts/202204/20220410_esp32_cal.html)
+
 [2022-01-25 制作以RISC-V为目标代码的编译器](posts/202201/20220125_riscv.html)
 
 [2022-01-23 RISC-V的ABI](posts/202201/20220123_riscv.html)
@@ -33,6 +35,8 @@ layout: default
 [2012-08-12 地铁图快速寻路算法](posts/201208/20120812_metro.html)
 
 # 软件
+
+[CalendariumNovumESP32](https://github.com/IanusInferus/CalendariumNovumESP32) 基于ESP32的电子墨水屏日历
 
 [FullKeyboardWin](https://github.com/IanusInferus/FullKeyboardWin) Windows蜂窝形虚拟键盘
 
