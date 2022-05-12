@@ -4,6 +4,8 @@ layout: default
 
 # 博客
 
+[2022-05-12 在openSUSE中创建单独session运行程序](posts/202205/20220512_setsid.html)
+
 [2022-04-10 ESP32入门-电子墨水屏日历](posts/202204/20220410_esp32_cal.html)
 
 [2022-01-25 制作以RISC-V为目标代码的编译器](posts/202201/20220125_riscv.html)
