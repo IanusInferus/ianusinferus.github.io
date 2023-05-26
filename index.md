@@ -4,6 +4,8 @@ layout: default
 
 # 博客
 
+[2023-05-26 我的不可知论哲学立场](posts/202305/20230526_philosophy.html)
+
 [2023-03-05 如何编译一个发行版无关的Linux程序：以rsync为例](posts/202303/20230305_rsync.html)
 
 [2022-08-17 使用USB硬盘启动操作系统](posts/202208/20220817_usb_disk_boot.html)
