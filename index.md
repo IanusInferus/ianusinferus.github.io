@@ -4,6 +4,8 @@ layout: default
 
 # 博客
 
+[2023-06-06 对于成瘾现象的考察](posts/202306/20230606_addiction.html)
+
 [2023-05-26 我的不可知论哲学立场](posts/202305/20230526_philosophy.html)
 
 [2023-03-05 如何编译一个发行版无关的Linux程序：以rsync为例](posts/202303/20230305_rsync.html)
