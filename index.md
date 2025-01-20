@@ -4,6 +4,8 @@ layout: default
 
 # 博客
 
+[2025-01-20 蓝牙耳机的限制](posts/202501/20250120_bluetooth.html)
+
 [2023-06-06 对于成瘾现象的考察](posts/202306/20230606_addiction.html)
 
 [2023-05-26 我的不可知论哲学立场](posts/202305/20230526_philosophy.html)
