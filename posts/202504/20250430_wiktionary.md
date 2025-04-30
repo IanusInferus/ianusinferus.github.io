@@ -18,7 +18,7 @@ Ianus Inferus
     * 单词数量太多，导致 kindlegen 无法生成单个文件。文件A包含所有由小写字母组成的单词，文件B包含其他所有单词。
 * 拉丁语 -> 英语：Wiktionary_BoboTiG-Ianus_le.mobi
 
-下载地址： https://github.com/IanusInferus/ebook-reader-dict/releases
+[下载地址](https://github.com/IanusInferus/ebook-reader-dict/releases)
 
 图中带中文解释的是系统词典。
 
