@@ -4,6 +4,8 @@ layout: default
 
 # 博客
 
+[2025-04-30 支持掌阅Smart5C的mobi格式Wiktionary英英和拉英词典](posts/202504/20250430_wiktionary.md)
+
 [2025-01-20 蓝牙耳机的限制](posts/202501/20250120_bluetooth.html)
 
 [2023-06-06 对于成瘾现象的考察](posts/202306/20230606_addiction.html)
