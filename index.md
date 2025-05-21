@@ -4,9 +4,11 @@ layout: default
 
 # 博客
 
-[2025-05-17 真理无法通过实践来检验](posts/202505/20250517_truth.md)
+[2025-05-21 如何优化Perfect Viewer在Android墨水屏上阅读竖排小说](posts/202505/20250521_vertical.html)
 
-[2025-04-30 支持掌阅Smart5C的mobi格式Wiktionary英英和拉英词典](posts/202504/20250430_wiktionary.md)
+[2025-05-17 真理无法通过实践来检验](posts/202505/20250517_truth.html)
+
+[2025-04-30 支持掌阅Smart5C的mobi格式Wiktionary英英和拉英词典](posts/202504/20250430_wiktionary.html)
 
 [2025-01-20 蓝牙耳机的限制](posts/202501/20250120_bluetooth.html)
 
