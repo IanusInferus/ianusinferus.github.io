@@ -4,6 +4,8 @@ layout: default
 
 # 博客
 
+[2026-01-01 星之声是说的回避型依恋的故事？](posts/202601/20250101_avoidant.html)
+
 [2025-05-21 如何优化Perfect Viewer在Android墨水屏上阅读竖排小说](posts/202505/20250521_vertical.html)
 
 [2025-05-17 真理无法通过实践来检验](posts/202505/20250517_truth.html)
