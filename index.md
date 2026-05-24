@@ -4,55 +4,57 @@ layout: default
 
 # 博客
 
-[2026-01-01 星之声是说的回避型依恋的故事？](posts/202601/20250101_avoidant.html)
+[2026-05-24 SQL的存在意义](posts/202605/20250524_sql.md)
 
-[2025-05-21 如何优化Perfect Viewer在Android墨水屏上阅读竖排小说](posts/202505/20250521_vertical.html)
+[2026-01-01 星之声是说的回避型依恋的故事？](posts/202601/20250101_avoidant.md)
 
-[2025-05-17 真理无法通过实践来检验](posts/202505/20250517_truth.html)
+[2025-05-21 如何优化Perfect Viewer在Android墨水屏上阅读竖排小说](posts/202505/20250521_vertical.md)
 
-[2025-04-30 支持掌阅Smart5C的mobi格式Wiktionary英英和拉英词典](posts/202504/20250430_wiktionary.html)
+[2025-05-17 真理无法通过实践来检验](posts/202505/20250517_truth.md)
 
-[2025-01-20 蓝牙耳机的限制](posts/202501/20250120_bluetooth.html)
+[2025-04-30 支持掌阅Smart5C的mobi格式Wiktionary英英和拉英词典](posts/202504/20250430_wiktionary.md)
 
-[2023-06-06 对于成瘾现象的考察](posts/202306/20230606_addiction.html)
+[2025-01-20 蓝牙耳机的限制](posts/202501/20250120_bluetooth.md)
 
-[2023-05-26 我的不可知论哲学立场](posts/202305/20230526_philosophy.html)
+[2023-06-06 对于成瘾现象的考察](posts/202306/20230606_addiction.md)
 
-[2023-03-05 如何编译一个发行版无关的Linux程序：以rsync为例](posts/202303/20230305_rsync.html)
+[2023-05-26 我的不可知论哲学立场](posts/202305/20230526_philosophy.md)
 
-[2022-08-17 使用USB硬盘启动操作系统](posts/202208/20220817_usb_disk_boot.html)
+[2023-03-05 如何编译一个发行版无关的Linux程序：以rsync为例](posts/202303/20230305_rsync.md)
 
-[2022-05-12 在openSUSE中创建单独session运行程序](posts/202205/20220512_setsid.html)
+[2022-08-17 使用USB硬盘启动操作系统](posts/202208/20220817_usb_disk_boot.md)
 
-[2022-04-10 ESP32入门-电子墨水屏日历](posts/202204/20220410_esp32_cal.html)
+[2022-05-12 在openSUSE中创建单独session运行程序](posts/202205/20220512_setsid.md)
 
-[2022-01-25 制作以RISC-V为目标代码的编译器](posts/202201/20220125_riscv.html)
+[2022-04-10 ESP32入门-电子墨水屏日历](posts/202204/20220410_esp32_cal.md)
 
-[2022-01-23 RISC-V的ABI](posts/202201/20220123_riscv.html)
+[2022-01-25 制作以RISC-V为目标代码的编译器](posts/202201/20220125_riscv.md)
 
-[2022-01-05 RISC-V学习笔记](posts/202201/20220105_riscv.html)
+[2022-01-23 RISC-V的ABI](posts/202201/20220123_riscv.md)
 
-[2021-11-16 Linux上的glibc版本兼容性问题](posts/202111/20211116_glibc.html)
+[2022-01-05 RISC-V学习笔记](posts/202201/20220105_riscv.md)
 
-[2021-11-08 认识面向对象编程的弊端](posts/202111/20211108_oop.html)
+[2021-11-16 Linux上的glibc版本兼容性问题](posts/202111/20211116_glibc.md)
 
-[2021-10-11 微雪GPM2804掌机使用感想](posts/202110/20211011_GPM2804.html)
+[2021-11-08 认识面向对象编程的弊端](posts/202111/20211108_oop.md)
 
-[2021-10-04 掌机的重量和屏幕](posts/202110/20211004_handhelds.html)
+[2021-10-11 微雪GPM2804掌机使用感想](posts/202110/20211011_GPM2804.md)
 
-[2021-07-06 如何下载需要验证cookie的文件](posts/202107/20210706_download.html)
+[2021-10-04 掌机的重量和屏幕](posts/202110/20211004_handhelds.md)
 
-[2021-05-22 如何在Aegisub中实现ruby功能](posts/202105/20210522_aegisub_ruby.html)
+[2021-07-06 如何下载需要验证cookie的文件](posts/202107/20210706_download.md)
 
-[2021-04-10 博客迁移](posts/202104/20210410_hello.html)
+[2021-05-22 如何在Aegisub中实现ruby功能](posts/202105/20210522_aegisub_ruby.md)
 
-[2019-09-07 BlackBerry Key2 键盘扩展](posts/201909/20190907_bbk2_keyext.html)
+[2021-04-10 博客迁移](posts/202104/20210410_hello.md)
 
-[2019-09-02 使用Android手机进行开发的尝试](posts/201909/20190902_android_phone_dev_env.html)
+[2019-09-07 BlackBerry Key2 键盘扩展](posts/201909/20190907_bbk2_keyext.md)
 
-[2017-01-03 再议C风格变量声明](posts/201701/20170103_c_declaration.html)
+[2019-09-02 使用Android手机进行开发的尝试](posts/201909/20190902_android_phone_dev_env.md)
 
-[2012-08-12 地铁图快速寻路算法](posts/201208/20120812_metro.html)
+[2017-01-03 再议C风格变量声明](posts/201701/20170103_c_declaration.md)
+
+[2012-08-12 地铁图快速寻路算法](posts/201208/20120812_metro.md)
 
 # 软件
 
@@ -70,15 +72,15 @@ layout: default
 
 [Niveum类型框架库](https://github.com/IanusInferus/niveum)
 
-[手工下载器](projects/ManualDownloader/index.html)
+[手工下载器](projects/ManualDownloader/index.md)
 
-[VolumeViewer](projects/VolumeViewer/index.html)
+[VolumeViewer](projects/VolumeViewer/index.md)
 
 [萤火虫框架漩涡文本本地化工具项目](https://github.com/IanusInferus/eddy)
 
-[用Java写成的Tiger到JVM编译器](projects/TigerCompiler/index.html)
+[用Java写成的Tiger到JVM编译器](projects/TigerCompiler/index.md)
 
-[魔王的反击](projects/CAB/index.html)
+[魔王的反击](projects/CAB/index.md)
 
 [萤火虫框架(Firefly)](https://github.com/IanusInferus/firefly)
 
