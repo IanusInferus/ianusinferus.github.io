@@ -59,5 +59,45 @@
         ga('send', 'pageview');
       </script>
     {% endif %}
+
+    <!-- Load the WebAssembly Graphviz engine via CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/@hpcc-js/wasm/dist/index.min.js" type="javascript/worker"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@hpcc-js/wasm/dist/index.umd.js"></script>
+
+    <script>
+    document.addEventListener("DOMContentLoaded", function () {
+        // 1. Find all <code> blocks inside <pre> structures
+        const targetBlocks = document.querySelectorAll("pre code.language-viz, pre code.language-dot");
+
+        if (targetBlocks.length > 0 && window["@hpcc-js/wasm"]) {
+            window["@hpcc-js/wasm"].Graphviz.load().then(function (graphviz) {
+                targetBlocks.forEach(function (codeBlock) {
+                // 2. Extract the raw Graphviz text
+                const dotSource = codeBlock.textContent;
+
+                // 3. TARGET THE ENTIRE <pre> WRAPPER
+                const preElement = codeBlock.parentElement;
+
+                try {
+                    // 4. Render the layout to an SVG string
+                    const svgResult = graphviz.layout(dotSource, "svg", "dot");
+
+                    // 5. Create a container wrapper
+                    const wrapper = document.createElement("div");
+                    wrapper.className = "graphviz-render";
+                    wrapper.innerHTML = svgResult;
+
+                    // 6. Put the SVG container right before the <pre> block, then destroy the <pre>
+                    preElement.parentNode.insertBefore(wrapper, preElement);
+                    preElement.remove();
+                } catch (error) {
+                    console.error("Graphviz rendering failed: ", error);
+                }
+                });
+            });
+        }
+    });
+    </script>
+
   </body>
 </html>

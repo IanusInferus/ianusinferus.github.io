@@ -2,3 +2,14 @@
 ---
 
 @import 'jekyll-theme-hacker';
+
+.graphviz-render {
+  text-align: center;
+  margin: 1.5rem 0;
+  overflow-x: auto; /* Adds a scrollbar if the diagram is wider than the screen */
+}
+
+.graphviz-render svg {
+  max-width: 100%;
+  height: auto;
+}
